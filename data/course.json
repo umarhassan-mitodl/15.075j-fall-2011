@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ]
+  ],
+  "legacy_uid": "12b5a4b6-dff2-0121-2895-6c4487a4e4c6",
+  "instructors": {
+    "content": [
+      "d1a399e2-1680-4cbf-989b-7c9ba750b486",
+      "a7fd979e-5f9a-73d3-5ef1-ad6b233653de",
+      "f46c1c30-fe34-92be-2249-d7eb08ea5201"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c3ba8e32-61f3-4300-d7ff-ebdbecb89f43",
+    "website": "15-075j-statistical-thinking-and-data-analysis-fall-2011"
+  },
+  "course_title": "Statistical Thinking and Data Analysis",
+  "course_description": "This course is an introduction to statistical data analysis. Topics are chosen from applied probability, sampling, estimation, hypothesis testing, linear regression, analysis of variance, categorical data analysis, and nonparametric statistics.\n",
+  "department_numbers": [
+    "15",
+    "IDS"
+  ],
+  "extra_course_numbers": "IDS.013J (formerly ESD.07J)",
+  "primary_course_number": "15.075J",
+  "course_image_thumbnail": {
+    "content": "693a3cb3-0c7f-8279-208e-de293f1f9430",
+    "website": "15-075j-statistical-thinking-and-data-analysis-fall-2011"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Programming Assignments with Examples"
+  ],
+  "site_uid": "71bbe29e-b36d-4214-97e0-32dfdd4b4c65",
+  "site_short_id": "15.075j-fall-2011",
+  "site_url_path": "courses/15-075j-statistical-thinking-and-data-analysis-fall-2011",
+  "title": "Course Metadata"
+}
